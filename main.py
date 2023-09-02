@@ -44,4 +44,4 @@ while val.lower() != 'n':
         score = 0
         game()
     else:
-        print("Thanks For Playing!")\
+        print("Thanks For Playing!")
